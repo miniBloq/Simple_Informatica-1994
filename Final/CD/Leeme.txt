@@ -1,0 +1,51 @@
+                  
+  **************************************************************************
+  *                                                                        *
+  *                          Simple Informática                            *
+  *									   *
+  *			  Sistema de Control de la                         *
+  *                                                                        *
+  *                            Interfaz i-723                              *
+  *                                                                        *
+  *		Copyright (c) 1997-98 Julián da Silva Gillig               *
+  *	                                                                   *
+  *                    Todos los derechos reservados                       *
+  *                                                                        *
+  **************************************************************************
+
+  Para instalar los programas contenidos en este disco, ejecuta INSTALAR.EXE.
+El mismo requiere Windows 3.1 o superior (puede ser Windows 3.11 ó 95).
+
+  Para ejecutarlo puedes dar doble click sobre el ícono de INSTALAR.EXE o
+correrlo desde el menú EJECUTAR (RUN) de Windows.  Si no sabes cómo hacerlo,
+lee el manual de tu interfaz y encontrarás instrucciones precisas.
+
+  La siguiente es una breve descripción de los programas que serán instalados
+desde este disco (el nombre que se da a continuación es el que figurará en el
+Grupo de Programa creado por el instalador en Windows):
+
+	- Prueba de la Interfaz i-723: Este programa permite probar todas las
+				       funciones de la interfaz manualmente.
+
+	- Minibloques 1.02: Este es un lenguaje MUY FACIL DE USAR basado en
+			    íconos y pensado para que puedas programar la
+			    interfaz aunque no hayas programado nunca antes.
+	
+	- Simulador de la Interfaz i-723: Permite simular una interfaz sin
+					  que haya una conectada a la 
+					  computadora en realidad.
+
+	- Simulador de Puertos: Es para ver lo que sucede en el puerto de
+				impresora (o en cualquier otro puerto de
+				tu computadora) a "bajo nivel".  Ideal para
+				programadores con experiencia.
+       
+ ****************************************************************************
+ *                                                                          *
+ *                    Simple Informática                                    *
+ *                    Carlos Tejedor 1597 Florida (CP. 1602)                *
+ *                    Buenos Aires, Argentina                               *
+ *                    Tel/fax: (541) 761-4165                               *
+ *                    E-mail: jsilva@aleph.fi.uba.ar                        *
+ *                                                                          *
+ ****************************************************************************        

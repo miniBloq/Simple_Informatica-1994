@@ -1,0 +1,200 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00FC2H 00FC3H _TEXT              CODE
+ 00FD0H 00FD0H 00000H _FARDATA           FAR_DATA
+ 00FD0H 00FD0H 00000H _OVERLAY_          OVRINFO
+ 00FD0H 00FD5H 00006H _INIT_             INITDATA
+ 00FD6H 00FD6H 00000H _INITEND_          INITDATA
+ 00FD6H 00FD6H 00000H _EXIT_             EXITDATA
+ 00FD6H 00FD6H 00000H _EXITEND_          EXITDATA
+ 00FE0H 00FE0H 00000H _1STUB_            STUBSEG
+ 00FE0H 01261H 00282H _DATA              DATA
+ 01262H 01262H 00000H _CVTSEG            DATA
+ 01262H 01262H 00000H _SCNSEG            DATA
+ 01262H 012AFH 0004EH _BSS               BSS
+ 012B0H 012B0H 00000H _BSSEND            ENDBSS
+ 012B0H 0132FH 00080H _STACK             STACK
+
+  Address         Publics by Name
+
+ 0000:027A       ApagaTodo()
+ 0000:029D       EscribeMotor(int,int)
+ 0000:0589       EscribeSalida(int,int)
+ 0000:0239       Inicializar(int)
+ 0000:074F       LeeMotor(int)
+ 0000:0775       LeeSalida(int)
+ 0000:067B       LeeSensor(int)
+ 00FE:0000       DATASEG@
+ 0000:0235       DGROUP@
+ 0000:0220       _abort
+ 0000:0791       _atexit
+ 0000:0C46       _brk
+ 00FE:0092       _errno
+ 0000:07B6       _exit
+ 0000:07D9       _fflush
+ 0000:085B       _flushall
+ 0000:0D50       _free
+ 0000:08F7       _fseek
+ 0000:0959       _ftell
+ 0000:0C62       _inport
+ 0000:0C6B       _inportb
+ 0000:0CB3       _isatty
+ 0000:0CC4       _lseek
+ 0000:06DE       _main
+ 0000:0E1F       _malloc
+ 00FE:0286       _Motor1
+ 00FE:0288       _Motor2
+ 00FE:028A       _Motor3
+ 0000:0CED       _outport
+ 0000:0CF9       _outportb
+ 00FE:0284       _PortIn
+ 00FE:0282       _PortOut
+ 0000:0F74       _realloc
+ 00FE:028C       _Salida1
+ 00FE:028E       _Salida2
+ 0000:0C52       _sbrk
+ 0000:09FF       _setvbuf
+ 0000:0ACB       _tell
+ 0000:0AE3       _write
+ 0000:1000  Abs  __AHINCR
+ 0000:000C  Abs  __AHSHIFT
+ 00FE:00A8       __atexitcnt
+ 00FE:0290       __atexittbl
+ 00FE:00A0       __brklvl
+ 00FE:0082       __C0argc
+ 00FE:0084       __C0argv
+ 00FE:0086       __C0environ
+ 00FE:0220       __doserrno
+ 00FE:0222       __dosErrorToSV
+ 00FE:0088       __envLng
+ 00FE:008A       __envseg
+ 00FE:008C       __envSize
+ 0000:012E       __exit
+ 00FE:00AA       __exitbuf
+ 0000:010F       __exitclean
+ 00FE:00AC       __exitfopen
+ 00FE:00AE       __exitopen
+ 00FE:027C       __first
+ 00FE:009C       __heapbase
+ 00FE:0218       __heaplen
+ 00FE:00A4       __heaptop
+ 00FE:0072       __Int0Vector
+ 00FE:0076       __Int4Vector
+ 00FE:007A       __Int5Vector
+ 00FE:007E       __Int6Vector
+ 0000:0C76       __IOERROR
+ 00FE:027E       __last
+ 0000:0237       __MMODEL
+ 00FE:01F0       __openfd
+ 00FE:0090       __osmajor
+ 00FE:0091       __osminor
+ 00FE:008E       __psp
+ 00FE:0282       __RealCvtVector
+ 0000:01A8       __restorezero
+ 00FE:0280       __rover
+ 00FE:0282       __ScanTodVector
+ 0000:099A       __setupio
+ 00FE:0094       __StartTime
+ 00FE:021E       __stklen
+ 00FE:00B0       __streams
+ 00FE:0090       __version
+ 0000:0D05       __write
+ 0000:0BD2       __xfflush
+ 0000:0BF3       ___brk
+ 00FE:009A       ___brklvl
+ 00FE:0098       ___heapbase
+ 0000:0C15       ___sbrk
+
+  Address         Publics by Value
+
+ 0000:000C  Abs  __AHSHIFT
+ 0000:1000  Abs  __AHINCR
+ 0000:010F       __exitclean
+ 0000:012E       __exit
+ 0000:01A8       __restorezero
+ 0000:0220       _abort
+ 0000:0235       DGROUP@
+ 0000:0237       __MMODEL
+ 0000:0239       Inicializar(int)
+ 0000:027A       ApagaTodo()
+ 0000:029D       EscribeMotor(int,int)
+ 0000:0589       EscribeSalida(int,int)
+ 0000:067B       LeeSensor(int)
+ 0000:06DE       _main
+ 0000:074F       LeeMotor(int)
+ 0000:0775       LeeSalida(int)
+ 0000:0791       _atexit
+ 0000:07B6       _exit
+ 0000:07D9       _fflush
+ 0000:085B       _flushall
+ 0000:08F7       _fseek
+ 0000:0959       _ftell
+ 0000:099A       __setupio
+ 0000:09FF       _setvbuf
+ 0000:0ACB       _tell
+ 0000:0AE3       _write
+ 0000:0BD2       __xfflush
+ 0000:0BF3       ___brk
+ 0000:0C15       ___sbrk
+ 0000:0C46       _brk
+ 0000:0C52       _sbrk
+ 0000:0C62       _inport
+ 0000:0C6B       _inportb
+ 0000:0C76       __IOERROR
+ 0000:0CB3       _isatty
+ 0000:0CC4       _lseek
+ 0000:0CED       _outport
+ 0000:0CF9       _outportb
+ 0000:0D05       __write
+ 0000:0D50       _free
+ 0000:0E1F       _malloc
+ 0000:0F74       _realloc
+ 00FE:0000       DATASEG@
+ 00FE:0072       __Int0Vector
+ 00FE:0076       __Int4Vector
+ 00FE:007A       __Int5Vector
+ 00FE:007E       __Int6Vector
+ 00FE:0082       __C0argc
+ 00FE:0084       __C0argv
+ 00FE:0086       __C0environ
+ 00FE:0088       __envLng
+ 00FE:008A       __envseg
+ 00FE:008C       __envSize
+ 00FE:008E       __psp
+ 00FE:0090       __osmajor
+ 00FE:0090       __version
+ 00FE:0091       __osminor
+ 00FE:0092       _errno
+ 00FE:0094       __StartTime
+ 00FE:0098       ___heapbase
+ 00FE:009A       ___brklvl
+ 00FE:009C       __heapbase
+ 00FE:00A0       __brklvl
+ 00FE:00A4       __heaptop
+ 00FE:00A8       __atexitcnt
+ 00FE:00AA       __exitbuf
+ 00FE:00AC       __exitfopen
+ 00FE:00AE       __exitopen
+ 00FE:00B0       __streams
+ 00FE:01F0       __openfd
+ 00FE:0218       __heaplen
+ 00FE:021E       __stklen
+ 00FE:0220       __doserrno
+ 00FE:0222       __dosErrorToSV
+ 00FE:027C       __first
+ 00FE:027E       __last
+ 00FE:0280       __rover
+ 00FE:0282       __ScanTodVector
+ 00FE:0282       __RealCvtVector
+ 00FE:0282       _PortOut
+ 00FE:0284       _PortIn
+ 00FE:0286       _Motor1
+ 00FE:0288       _Motor2
+ 00FE:028A       _Motor3
+ 00FE:028C       _Salida1
+ 00FE:028E       _Salida2
+ 00FE:0290       __atexittbl
+
+Program entry point at 0000:0000
+

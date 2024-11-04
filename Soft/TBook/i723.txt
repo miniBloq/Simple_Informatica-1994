@@ -1,0 +1,17 @@
+to handle EnterBook
+linkDLL "i723.DLL"
+	INT Inicializar(INT)
+	INT EscribeMotor (INT, INT)
+	INT EscribeSalida (INT, INT)
+	INT LeeMotor (INT)		
+	INT LeeSalida (INT)		
+	INT LeeSensor (INT)		
+end linkDLL
+IniRet = Inicializar(1)  --El número que se le pasa a Inicializar es
+						 --el número de puerto paralelo al que está
+						 --conectada la interfaz.  
+						 --Ejemplo:
+						 --Inicializar(2) es porque la interfaz está 
+						 --conectada en el LPT 2.
+--Copyright (c)1998 Julián da Silva-Todos los derechos reservados.
+end

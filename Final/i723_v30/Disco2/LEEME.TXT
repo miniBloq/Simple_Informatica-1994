@@ -1,0 +1,37 @@
+                  
+  **************************************************************************
+  *                                                                        *
+  *                          Simple Informática                            *
+  *									   *
+  *			  Sistema de Control de la                         *
+  *                                                                        *
+  *                            Interfaz i-723                              *
+  *                                                                        *
+  *		Copyright (c) 1997-98 Julián da Silva Gillig               *
+  *	                                                                   *
+  *                    Todos los derechos reservados                       *
+  *                                                                        *
+  **************************************************************************
+
+  En este disco encontrarás las librerías necesarias para trabajar con
+numerosos lenguajes de programación y sistemas de autor.  
+
+  Consulta el manual de tu interfaz para comprender el funcionamiento de cada
+librería y sus detalles.
+
+  Copia las librerías que necesites a tu disco rígido (es recomendable que
+hagas una copia del disco completo).
+
+  También encontrarás un subdirectorio llamado GRAFICOS.  En él hay algunos 
+gráficos de mapa de bits (bmp) útiles para preparar trabajos prácticos o para
+agregar a tus programas de robótica y tecnología.
+       
+ ****************************************************************************
+ *                                                                          *
+ *                    Simple Informática                                    *
+ *                    Carlos Tejedor 1597 Florida (CP. 1602)                *
+ *                    Buenos Aires, Argentina                               *
+ *                    Tel/fax. (541) 761-4165                               *
+ *                    E-mail: jsilva@aleph.fi.uba.ar                        *
+ *                                                                          *
+ ****************************************************************************        

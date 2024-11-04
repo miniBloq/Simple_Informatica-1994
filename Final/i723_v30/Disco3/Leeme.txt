@@ -1,0 +1,29 @@
+                  
+  **************************************************************************
+  *                                                                        *
+  *                          Simple Informática                            *
+  *									   *
+  *			  Sistema de Control de la                         *
+  *                                                                        *
+  *                            Interfaz i-723                              *
+  *                                                                        *
+  *		Copyright (c) 1997-2002 Julián da Silva Gillig             *
+  *	                                                                   *
+  *                    Todos los derechos reservados                       *
+  *                                                                        *
+  **************************************************************************
+
+  En este disco se encuentra la documentación de la Interfaz Didáctica i-723 
+y del soft que la acompaña.  Para instalarla, simplemente ejecuta el archivo
+ejecutable llamado Manual.exe.  El mismo es autodescompactable y contiene 
+un documento en formato PDF.
+
+ ****************************************************************************
+ *                                                                          *
+ *                    Simple Informática                                    *
+ *                    Carlos Tejedor 1597 Florida (CP. 1602)                *
+ *                    Buenos Aires, Argentina                               *
+ *                    Tel/fax: (541) 761-4165                               *
+ *                    E-mail: jsilva@aleph.fi.uba.ar                        *
+ *                                                                          *
+ ****************************************************************************        
